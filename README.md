@@ -26,7 +26,7 @@ Software keylogger: This software inserts itself between the operating system an
 
 </br>
 
-![keylogger](https://github.com/user-attachments/assets/a30d557e-afc6-4e29-a9e4-48633162cd53)
+![Keylogger](https://github.com/user-attachments/assets/1e387e23-c8be-4c47-8373-9675041c2f66)
 
 </br>
 
