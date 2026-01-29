@@ -40,3 +40,8 @@ Hardware keyloggers: Hardware keyloggers require direct physical access to the a
 
 Keylogger data can represent a valuable IT forensic source that can be used by IT forensic experts to investigate security incidents. The use of keyloggers in corporate environments is not completely prohibited, but a detailed legal review is recommended before use.
 
+# Dangers of Keyloggers
+Dangers of malicious Keyloggers are that they trap information before it can be encrypted. For example, banking websites (should) provide a secure connection between your computer and the website so that all data is encrypted in transit. However, as you type your credentials in, the Keylogger is recording those keystrokes, bypassing security measures. Keyloggers not only have the ability to trap login credentials, but credit card numbers, bank account numbers, private passwords for encrypted files, financial records, email and other PII.
+
+# Protecting Yourself from Keyloggers
+* Install top-notch anti-pestware software on your system, preferably programs that help to prevent Keyloggers and watch for Keylogging activities. Though this won't guarantee you will not get a Keylogger, it can help by recognizing and removing known Keylogger signatures.
